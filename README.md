@@ -11,7 +11,7 @@ Python 3.11.7
 pip install -r requirements.txt
 ```
 
-### Marimo In buit tutorial 
+### Marimo In built tutorial 
 
 ```
 marimo tutorial intro
@@ -20,10 +20,10 @@ marimo tutorial intro
 ### Launch Marimo
 
 ```
-mario edit
+marimo edit
 ```
 
-### Create or Edit a single notebook with
+### Create or Edit a single notebook
 
 ```
 marimo edit your_notebook.py
